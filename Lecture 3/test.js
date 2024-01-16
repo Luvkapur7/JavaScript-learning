@@ -12,3 +12,5 @@ let isLoggedIn = true //this is a boolean
 
 console.log(typeof isLoggedIn);
 //seeing type of
+
+
